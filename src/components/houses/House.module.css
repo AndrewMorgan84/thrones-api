@@ -1,0 +1,19 @@
+.house h3 {
+  margin: 0.5rem 0;
+  font-size: 1.25rem;
+}
+
+.house header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.house p {
+  color: #3a3a3a;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+}
